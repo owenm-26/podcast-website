@@ -1,0 +1,55 @@
+
+
+.heading{
+    background-color:bisque;
+    height: 70px;
+    display: flex;
+    font-weight: 800;
+}
+
+.logo{
+    height: 70px;
+    
+}
+
+.main{
+    display: flex;
+}
+
+
+.left-side{
+    
+    width: 40%;
+    background-color: beige;
+}
+
+.inside-left{
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.middle{
+    width: 10%;
+}
+
+.right-side{
+    
+    width: 50%;
+    background-color:lightgray;
+    text-align: center;
+}
+
+.picture-placeholder{
+    
+    width: 400px;
+    height: 500px;
+    background-color: gray;
+}
+
+.bottom{
+    text-align: center;
+}
+
