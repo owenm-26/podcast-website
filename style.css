@@ -118,6 +118,28 @@
 
 .bottom{
     background-color: aquamarine;
-    margin-top: 50px;
+    margin-top:100px;
+    bottom: 0px;
+    text-align: center;
     height: 100px;
+    
+}
+
+.logos{
+    height: 10%;
+}
+
+#ig{
+
+    padding-right: 20px;
+    height: 60px;
+}
+
+#facebook{
+    padding-right: 20px;
+    height: 60px;
+}
+
+#twitter{
+    height: 60px;
 }
