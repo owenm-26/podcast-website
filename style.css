@@ -234,3 +234,19 @@
     font-size: large;
     line-height:40px;
 }
+
+.sponsors{
+  background-color: white;
+  text-align: right;
+  max-width: 25%;
+}
+
+#node{
+  height: 100px;
+}
+#taco{
+  height: 100px;
+}
+#gatorade{
+  height: 100px;
+}
