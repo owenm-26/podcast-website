@@ -10,6 +10,22 @@
     font-weight: 800;
 }
 
+
+.intro{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    line-height:40px;
+    background-image: linear-gradient(to bottom right,#2E3192,#1BFFFF );
+    
+    width: 50%;
+    text-align: center;
+    border-color: #242F40;
+    border-style: solid;
+    border-radius: 6%;
+    margin-left: 25%;
+    
+    
+}
 .logo{
     height: 70px;
     
