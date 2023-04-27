@@ -1,10 +1,15 @@
 
 .background{
-    background-color:#BDB5B4;
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),            
+  linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),            
+  linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    background-color:white;
 }
 .heading{
     
-    background-color:#4A7856;
+    background-color:#E5E5E5;
+    border-style: solid;
+    
     height: 70px;
     display: flex;
     font-weight: 800;
@@ -15,14 +20,15 @@
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     line-height:40px;
-    background-image: linear-gradient(to bottom right,#2E3192,#1BFFFF );
+    background-color: white;
     
-    width: 50%;
+    width: 100%;
     text-align: center;
     border-color: #242F40;
     border-style: solid;
     border-radius: 6%;
-    margin-left: 25%;
+    margin-left: 0%;
+    margin-top: 200px;
     
     
 }
